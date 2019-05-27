@@ -10,3 +10,7 @@
 (6)	cal 年份  显示这一年整年的日历    
 ## 设置linux的ip地址  
 ifconfig eth0 192.168.1.1  
+## 远程连接工具  
+1.SecureCRT  
+2.putty  
+3.WinSCP.exe
