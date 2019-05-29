@@ -13,4 +13,7 @@ ifconfig eth0 192.168.1.1
 ## 远程连接工具  
 1.SecureCRT  
 2.putty  
-3.WinSCP.exe
+3.WinSCP.exe  
+## linux 常用命令  
+ls  
+
