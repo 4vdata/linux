@@ -16,5 +16,7 @@ ifconfig eth0 192.168.1.1
 3.WinSCP.exe  
 ## linux 常用命令  
 ls  
-ls -ld /usr 仅显示当前文件夹属性
+ls -ld /usr 仅显示当前文件夹属性  
+ls -i 查看文件i节点编号  
+
 
