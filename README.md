@@ -23,4 +23,5 @@ ls -i 查看文件i节点编号
 mkdir -p /a/b  递归创建目录  
 ####  cd切换当前目录 
 ####  pwd 显示当前目录
-
+#### chmod -R   
+### mkdir -p 
